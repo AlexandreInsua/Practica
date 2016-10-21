@@ -2,13 +2,13 @@ package practicagit;
 
 public class principal {
 	
-	public static void mais (String [] args){
+	public static void main (String [] args){
 		int i;
 		for (i=0;i<=3;i++){
 			System.out.println("Ola, Ángel");
 		}
 		
-		
+		System.out.println("Fin de programa");
 	}
 
 }
