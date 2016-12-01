@@ -1,0 +1,44 @@
+[33mcommit 3253e7f7e7a28d8c7e814c8cc27ef74a50931f56[m
+Author: Alexandre Insua <alexandreinsua@gmail.com>
+Date:   Thu Dec 1 09:11:28 2016 +0100
+
+    modificación
+
+[33mcommit 85fc603670a64611b63f4a3948b459afe30d254d[m
+Author: Alexandre Insua <alexandreinsua@gmail.com>
+Date:   Thu Dec 1 09:01:07 2016 +0100
+
+    Temperatura
+    
+    Pide unha temperatura en grados celsius e a devolve en farenheit
+
+[33mcommit 0c541eb12543bd7ef8065a21aeee2a790c2f0177[m
+Author: Alexandre Insua <alexandreinsua@gmail.com>
+Date:   Fri Oct 21 14:09:39 2016 +0200
+
+    actualización
+
+[33mcommit f8ccb87688247a44a72f30954ada72e2710386df[m
+Author: DAM <DAM@Cebem-512-PC>
+Date:   Wed Oct 19 14:38:46 2016 +0200
+
+    Modificación
+    Introducín unha saída a pantalla que sinala o fin do programa.
+
+[33mcommit 9b1e1831f2ebdd19a73a6fba69fe34b3fe591114[m
+Author: DAM <DAM>
+Date:   Wed Oct 19 12:51:39 2016 +0200
+
+    modifiquei a condición do bucle for porque había dous nomes para a variable
+
+[33mcommit 7813c09f484c5fa56c50d93e7a9e2d3f4597fe03[m
+Author: Alexandre Insua Moreira <alexandreinsua@gmail.com>
+Date:   Wed Oct 19 10:40:51 2016 +0000
+
+    implementado bucle for
+
+[33mcommit cf48b7e451eefca69273bdf47ff53b3ff6c695b0[m
+Author: DAM <DAM>
+Date:   Wed Oct 19 12:36:04 2016 +0200
+
+    Commit inicial
