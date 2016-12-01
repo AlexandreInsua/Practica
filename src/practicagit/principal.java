@@ -1,4 +1,5 @@
 package practicagit;
+/* programa probar a subida de datos a github*/
 
 public class principal {
 	
