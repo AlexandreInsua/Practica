@@ -17,7 +17,6 @@ public class Temperature {
 		temperatura = td.nextFloat();
 
 		System.out.println(celsiusToFarenheit(temperatura));
-
 		
 		td.close();
 		System.out.println("\n\n FIN DE PROGRAMA");
